@@ -10,4 +10,9 @@ hoee
 
  hotfix
  Seraching?????
+<<<<<<< HEAD
 thx and u?
+=======
+
+I'm fine
+>>>>>>> origin/master
